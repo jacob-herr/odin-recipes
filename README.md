@@ -1,0 +1,1 @@
+this project is just to make sure i understand the very basics of html. There isnt too much to explain.
